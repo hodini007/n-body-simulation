@@ -37,7 +37,7 @@ This project simulates two charged particles interacting via **Coulomb's Law**. 
 1. Install Julia from the official [Julia website](https://julialang.org/downloads/).
 2. Clone the repository:
    ```bash
-   git clone https://github.com/hodini007/charged-particle-orbit-simulation.git
+   git clone [https://github.com/hodini007/n-body-simulation]
    cd charged-particle-orbit-simulation
 Install the required Julia packages:
 julia
